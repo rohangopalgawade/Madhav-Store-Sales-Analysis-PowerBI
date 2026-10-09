@@ -13,8 +13,8 @@ The project focuses on analyzing sales data and presenting meaningful business i
 - CSV Dataset
 
 ## Project Files
-- `Sales Performance Dashboard.pbix` – Power BI dashboard file
-- `Dashboard_Image.png` – Dashboard preview
+– Power BI dashboard file
+- `Dashboard_Image.png` – Dashboard preview <a href="https://github.com/rohangopalgawade/Madhav-Store-Sales-Analysis-PowerBI/blob/main/Sales%20Performance%20Dashboard.pbix">Dashboard</a>
 - `Orders.csv` – Orders dataset
 - `Details.csv` – Sales details dataset
 
